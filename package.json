@@ -1,0 +1,21 @@
+{
+  "name": "adventofcode2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-sdsl": "^4.3.0",
+    "linked-list": "^3.1.0",
+    "md5": "^2.3.0",
+    "symbol-tree": "^3.2.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
